@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @Air-Blade
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-Air-Blade/Air-Blade is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Oi, Eu sou o Nicholas
+- 👀 Estou interessado em Desenvolver Sites.
+- 🌱 Estou aprendendo Chakra-UI & TailwindCSS.
+- 💞️ Estou procurando emprego Como Desenvolvedor Junior.
+- 📫 Me manda um Email se gostar do que viu: nicholasgoes2001@gmail.com.
