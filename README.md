@@ -1,5 +1,5 @@
 - 👋 Oi, Eu sou o Nicholas
 - 👀 Estou interessado em Desenvolver Sites.
 - 🌱 Estou aprendendo Chakra-UI & TailwindCSS.
-- 💞️ Estou procurando emprego Como Desenvolvedor Junior.
+- 💞️ Estou procurando emprego Como Desenvolvedor Web Junior.
 - 📫 Me manda um Email se gostar do que viu: nicholasfernandesdegoes@gmail.com.
