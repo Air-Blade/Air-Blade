@@ -2,4 +2,4 @@
 - 👀 Estou interessado em Desenvolver Sites.
 - 🌱 Estou aprendendo Chakra-UI & TailwindCSS.
 - 💞️ Estou procurando emprego Como Desenvolvedor Junior.
-- 📫 Me manda um Email se gostar do que viu: nicholasgoes2001@gmail.com.
+- 📫 Me manda um Email se gostar do que viu: nicholasfernandesdegoes@gmail.com.
