@@ -9,8 +9,8 @@
 
 <div>
     <a href="https://github.com/Nicholas-Goes" style="align="center"">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nicholas-Goes&show_icons=true"/>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nicholas-Goes&layout=compact"/>
+        <img height="240px" src="https://github-readme-stats.vercel.app/api?username=Nicholas-Goes&show_icons=true"/>
+        <img height="240px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nicholas-Goes&layout=compact"/>
     </a>
 </div>
 
