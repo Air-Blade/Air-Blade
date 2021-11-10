@@ -10,9 +10,6 @@
 <div>
     <a href="https://github.com/Nicholas-Goes">
         <img align="center" src="https://github-readme-stats.vercel.app/api?username=Nicholas-Goes&show_icons=true&theme=dracula"/>
-    </a>
-
-    <a href="https://github.com/Nicholas-Goes">
         <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nicholas-Goes&layout=compact&theme=dracula" />
     </a>
 </div>
