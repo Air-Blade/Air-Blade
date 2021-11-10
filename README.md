@@ -1,4 +1,4 @@
-## Oii, Eu Sou o Nicholas, Desenvolvedor Web Junior e Desenhista Nas Horas Vagas!!!
+## Oii, Eu Sou o Nicholas Desenvolvedor Web e Designer Nas Horas Vagas!!!
 <div align="center">
   <a href="https://github.com/Nicholas-Goes">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Nicholas-Goes&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
