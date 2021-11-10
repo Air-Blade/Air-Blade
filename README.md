@@ -8,9 +8,12 @@
 ##
 
 <div>
-    <a href="https://github.com/Nicholas-Goes" style="align="center"">
-        <img src="https://github-readme-stats.vercel.app/api?username=Nicholas-Goes&show_icons=true"/>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nicholas-Goes&layout=compact"/>
+    <a href="https://github.com/Nicholas-Goes">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Nicholas-Goes&repo=github-readme-stats" />
+    </a>
+
+    <a href="https://github.com/Nicholas-Goes">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nicholas-Goes&layout=compact" />
     </a>
 </div>
 
