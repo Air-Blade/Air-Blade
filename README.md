@@ -5,7 +5,7 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nicholas-Goes&layout=compact&langs_count=7&theme=graywhite"/>
 </div>
 
-## 🌸 Linguangens que eu já usei:
+## 🌸 Linguangens que Conheço:
 <div style="display: inline_block">
   <img align="center" alt="Nicholas-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Nicholas-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -14,11 +14,11 @@
   <img align="center" alt="Nicholas-Sass" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
   <img align="center" alt="Nicholas-React" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
   <img align="center" alt="Nicholas-TaildwindCSS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg">
-</div><br>
+</div>
 
 ## 🌷 Redes Sociais:
   
-<div>
+<div style="display: inline_block">
     <a href="https://www.linkedin.com/in/nicholasgoes" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%23E4405F?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
     <a href="https://www.instagram.com/nicholasfgoes" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
     <a href="https://twitter.com/NicholasGoes"><img src="https://img.shields.io/badge/Twitter-%23E4405F?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
