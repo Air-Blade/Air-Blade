@@ -1,5 +1,5 @@
 ## 🌺 Oii, Eu Sou o Nicholas Desenvolvedor Web e Designer Nas Horas Vagas!!!
-<div align="center">
+<div align="center"><br>
   <a href="https://github.com/Nicholas-Goes">
   <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=Nicholas-Goes"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nicholas-Goes&layout=compact&langs_count=7&theme=graywhite"/>
