@@ -26,3 +26,5 @@
     <a href="https://myanimelist.net/profile/Nicholas_Goes"><img src="https://img.shields.io/badge/Myanimelist-%23E4405F?style=for-the-badge&logo=myanimelist&logoColor=white" target="_blank"></a>
     <a href = "mailto:nicholasfernandesdegoes@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23E4405F?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  </div>
+
+## Novidades em Breve:
