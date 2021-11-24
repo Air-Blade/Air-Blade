@@ -38,8 +38,8 @@
  ## Algumas Estátisticas:
  <div align="center"><br>
   <a href="https://github.com/Nicholas-Goes">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Nicholas-Goes&show_icons=true&bg_color=263c47&icon_color=28eaf8&title_color=28eaf8&hide_border=true&text_color=fff&locale=pt-br"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nicholas-Goes&langs_count=7&bg_color=263c47&icon_color=28eaf8&title_color=28eaf8&hide_border=true&text_color=fff&locale=pt-br"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nicholas-Goes&show_icons=true&bg_color=263c47&icon_color=28eaf8&title_color=28eaf8&hide_border=true&text_color=fff&locale=pt-br"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nicholas-Goes&langs_count=7&bg_color=263c47&icon_color=28eaf8&title_color=28eaf8&hide_border=true&text_color=fff&locale=pt-br"/>
   <br>
   <img height="160em" src="https://github-readme-streak-stats.herokuapp.com?user=Nicholas-Goes&theme=blux&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&locale=pt-br"/>
 
