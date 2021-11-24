@@ -1,10 +1,9 @@
 <div align="center">
   <img align="center" src="assets/fushiguro.gif">
-  <br>
 </div>
 
 
-<div align="center">
+<div align="center" style="margin-top: 25px">
   <p style="margin-top: 25px; text-align: center">Bem-vindo ao meu GITHUB.
   <br>Eu sou o Nicholas tenho 20 anos e estou atualmente desenvolvendo um Game-RPG.
   <br>Sinta-se à vontade para viajar pelos meus repositórios.
