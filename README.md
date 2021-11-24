@@ -1,5 +1,5 @@
 <div align="center">
-  <img align="center" src="https://64.media.tumblr.com/4587f2502137671a4fd64c2499ac7cf8/7c104278fa598117-6f/s540x810/5b026efab50834b54f9df090de89f7a151ff5360.gifv">
+  <img align="center" src="assets/fushiguro.gif">
 </div>
 
 
