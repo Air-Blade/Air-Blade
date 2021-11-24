@@ -1,7 +1,7 @@
 ## 🌺 Oiii, Eu Sou o Nicholas Desenvolvedor Web e Designer Nas Horas Vagas!!!!
 <div align="center"><br>
   <a href="https://github.com/Nicholas-Goes">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Nicholas-Goes&show_icons=true&theme=radical"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Nicholas-Goes&show_icons=true&theme=graywhite"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nicholas-Goes&layout=compact&langs_count=7&theme=graywhite"/>
 </div>
 
