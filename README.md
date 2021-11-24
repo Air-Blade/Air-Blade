@@ -1,13 +1,14 @@
 <div align="center">
   <img align="center" src="assets/fushiguro.gif">
 </div>
-
+<br>
 
 <div align="center" style="margin-top: 25px">
   <p style="margin-top: 25px; text-align: center">Bem-vindo ao meu GITHUB.
   <br>Eu sou o Nicholas tenho 20 anos e estou atualmente desenvolvendo um RPG.
   <br>Sinta-se à vontade para viajar pelos meus repositórios.
 </p>
+  <img src="https://komarev.com/ghpvc/?username=Nicholas-Goes&color=blue">
 
 <div>
 
@@ -21,7 +22,6 @@
   <img align="center" alt="Nicholas-NodeJs" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
   <img align="center" alt="Nicholas-NodeJs" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
 </div>
-
 <hr>
 
 ## Redes Sociais:
