@@ -1,5 +1,6 @@
 <div align="center">
   <img align="center" src="assets/fushiguro.gif">
+  <br>
 </div>
 
 
