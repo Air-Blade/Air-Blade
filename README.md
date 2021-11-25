@@ -1,5 +1,5 @@
 <div align="center">
-  <img align="center" src="assets/fushiguro.gif">
+  <img align="center" src="assets/tomioka.gif">
 </div>
 <br>
 
