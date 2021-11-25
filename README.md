@@ -14,7 +14,7 @@
 
 <div>
 
-## Linguangens & Frameworks Que Conheço:
+## Linguangens & Frameworks:
 <div align="center" style="display: inline_block;">
   <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
   <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
@@ -23,8 +23,8 @@
   <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
   <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />
   <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
-    <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"/>
-    <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+  <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"/>
+  <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
   <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
@@ -38,8 +38,11 @@
  ## Algumas Estátisticas:
  <div align="center"><br>
   <a href="https://github.com/Nicholas-Goes">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Nicholas-Goes&show_icons=true&theme=swift"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nicholas-Goes&layout=compact&langs_count=7&theme=swift"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nicholas-Goes&show_icons=true&bg_color=263c47&icon_color=28eaf8&title_color=28eaf8&hide_border=true&text_color=fff&locale=pt-br"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nicholas-Goes&langs_count=7&bg_color=263c47&icon_color=28eaf8&title_color=28eaf8&hide_border=true&text_color=fff&locale=pt-br"/>
+  <br>
+  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com?user=Nicholas-Goes&theme=blux&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&locale=pt-br"/>
+
 </div><br>
   
 <div align="center" style="display: inline_block">
