@@ -6,7 +6,6 @@
   <br>Sinta-se à vontade para viajar pelos meus repositórios.
 </p>  
   <br>
-  <br>
 
 <div>
 
