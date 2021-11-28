@@ -1,15 +1,11 @@
-<div align="center">
-  <img align="center" src="assets/tomioka.gif">
-</div>
 <br>
 
 <div align="center" style="margin-top: 25px">
   <p style="margin-top: 25px; text-align: center">Bem-vindo ao meu GITHUB.
   <br>Eu sou o Nicholas tenho 20 anos e estou atualmente desenvolvendo um RPG.
   <br>Sinta-se à vontade para viajar pelos meus repositórios.
-</p>
-  <img src="https://komarev.com/ghpvc/?username=Nicholas-Goes&color=blue">
-  <img src="https://img.shields.io/github/followers/Nicholas-goes?color=blue&label=Followers">
+</p>  
+  <img src="https://img.shields.io/github/followers/Nicholas-Goes?color=EE4F6E&label=Seguidores&style=for-the-badge">
   <br>
 
 <div>
@@ -38,10 +34,10 @@
  ## 🌊 Algumas Estátisticas:
  <div align="center"><br>
   <a href="https://github.com/Nicholas-Goes">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nicholas-Goes&show_icons=true&bg_color=263c47&icon_color=28eaf8&title_color=28eaf8&hide_border=true&text_color=fff&locale=pt-br"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nicholas-Goes&langs_count=7&bg_color=263c47&icon_color=28eaf8&title_color=28eaf8&hide_border=true&text_color=fff&locale=pt-br"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nicholas-Goes&show_icons=true&bg_color=ffffff8&icon_color=E4AFFFFF&title_color=E4AFFFFF&hide_border=true&text_color=000000&locale=pt-br"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nicholas-Goes&langs_count=7&bg_color=ffffff8&icon_color=E4AFFFFF&title_color=E4AFFFFF&hide_border=true&text_color=000000&locale=pt-br"/>
   <br>
-  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com?user=Nicholas-Goes&theme=blux&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&locale=pt-br"/>
+  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com?user=Nicholas-Goes&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=E4AFFF&background=FFFFFF&fire=E4AFFF&currStreakLabel=E4AFFF"/>
 
 </div><br>
   
