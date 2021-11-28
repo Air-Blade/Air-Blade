@@ -5,7 +5,7 @@
   <br>Eu sou o Nicholas tenho 20 anos e estou atualmente desenvolvendo um RPG.
   <br>Sinta-se à vontade para viajar pelos meus repositórios.
 </p>  
-  <img src="https://img.shields.io/github/followers/Nicholas-Goes?color=EE4F6E&label=Seguidores&style=for-the-badge">
+  <img src="https://img.shields.io/github/followers/Nicholas-Goes?color=EE4F6E&label=Seguidores&logo=github&style=for-the-badge">
   <br>
 
 <div>
