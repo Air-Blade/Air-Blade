@@ -5,7 +5,6 @@
   <br>Eu sou o Nicholas tenho 20 anos e estou atualmente desenvolvendo um RPG.
   <br>Sinta-se à vontade para viajar pelos meus repositórios.
 </p>  
-  <br>
 
 <div>
 
