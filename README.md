@@ -34,10 +34,10 @@
  ## 🌊 Algumas Estátisticas:
  <div align="center"><br>
   <a href="https://github.com/Nicholas-Goes">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nicholas-Goes&show_icons=true&bg_color=ffffff8&icon_color=E4AFFFFF&title_color=E4AFFFFF&hide_border=true&text_color=000000&locale=pt-br"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nicholas-Goes&langs_count=7&bg_color=ffffff8&icon_color=E4AFFFFF&title_color=E4AFFFFF&hide_border=true&text_color=000000&locale=pt-br"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nicholas-Goes&show_icons=true&bg_color=ffffff8&icon_color=EE4F6E&title_color=EE4F6E&hide_border=true&text_color=000000&locale=pt-br"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nicholas-Goes&langs_count=7&bg_color=ffffff8&icon_color=EE4F6E&title_color=EE4F6E&hide_border=true&text_color=000000&locale=pt-br"/>
   <br>
-  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com?user=Nicholas-Goes&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=E4AFFF&background=FFFFFF&fire=E4AFFF&currStreakLabel=E4AFFF"/>
+  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com?user=Nicholas-Goes&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=EE4F6E&background=FFFFFF&fire=EE4F6E&currStreakLabel=EE4F6E"/>
 
 </div><br>
   
