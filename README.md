@@ -27,7 +27,6 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nicholas-Goes&langs_count=7&bg_color=ffffff&icon_color=0054DD&title_color=0054DD&hide_border=true&text_color=000000&locale=pt-br&count_private=true&layout=compact"/>
   <br>
     <img height="180em" src="http://github-readme-streak-stats.herokuapp.com?user=Nicholas-Goes&date_format=M%20j%5B%2C%20Y%5D&fire=0054DD&border=0054DD&ring=0054DD&currStreakNum=0054DD&&hide_border=true&currStreakLabel=0054DD"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=NicholasGoes&layout=compact/>
 </div><br>
   
 <div align="center" style="display: inline_block">
