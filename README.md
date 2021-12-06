@@ -6,7 +6,7 @@
 
 <div>
 
-##  🔥 Linguangens & Frameworks:
+## 🌊 Linguangens & Frameworks:
 <div align="center" style="display: inline_block;">
   <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
@@ -20,7 +20,7 @@
 </div>
 <hr>
 
- ## 🔥 Algumas Estátisticas:
+ ## 🌊 Algumas Estátisticas:
  <div align="center"><br>
   <a href="https://github.com/Nicholas-Goes">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nicholas-Goes&show_icons=true&bg_color=ffffff&icon_color=0054DD&title_color=0054DD&hide_border=true&text_color=000000&locale=pt-br"/>
