@@ -21,10 +21,10 @@
  ## 🌊 Algumas Estátisticas:
  <div align="center"><br>
   <a href="https://github.com/Nicholas-Goes">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nicholas-Goes&show_icons=true&bg_color=431515&icon_color=ff3333&title_color=ff3333&hide_border=true&text_color=000000&locale=pt-br"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nicholas-Goes&langs_count=7&bg_color=431515&icon_color=ff3333&title_color=ff3333&hide_border=true&text_color=000000&locale=pt-br"/>
+    <img height="180em" src="http://github-readme-streak-stats.herokuapp.com?user=Nicholas-Goes&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=110000&border=DD2727&stroke=DD2727&ring=DD2727&fire=DD2727&currStreakNum=FF3333&sideNums=DD2727&currStreakLabel=FF3333&sideLabels=FF3333&dates=FF3333"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nicholas-Goes&langs_count=7&bg_color=110000&icon_color=ff3333&title_color=ff3333&hide_border=true&text_color=ff7272&locale=pt-br"/>
   <br>
-  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com?user=Nicholas-Goes&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=ff3333&background=431515&fire=ff3333&currStreakLabel=ff3333"/>
+  <img height="270em" src="https://github-readme-stats.vercel.app/api?username=Nicholas-Goes&show_icons=true&bg_color=110000&icon_color=ff3333&title_color=ff3333&hide_border=true&text_color=ff7272&locale=pt-br"/>
 
 </div><br>
   
