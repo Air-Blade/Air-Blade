@@ -6,7 +6,7 @@
 
 <div>
 
-## 🌊 Linguangens & Frameworks:
+##  🔥 Linguangens & Frameworks:
 <div align="center" style="display: inline_block;">
   <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
   <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
@@ -18,7 +18,7 @@
 </div>
 <hr>
 
- ## 🌊 Algumas Estátisticas:
+ ##Algumas Estátisticas:
  <div align="center"><br>
   <a href="https://github.com/Nicholas-Goes">
     <img height="180em" src="http://github-readme-streak-stats.herokuapp.com?user=Nicholas-Goes&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=110000&border=DD2727&stroke=DD2727&ring=DD2727&fire=DD2727&currStreakNum=FF3333&sideNums=DD2727&currStreakLabel=FF3333&sideLabels=FF3333&dates=FF3333"/>
