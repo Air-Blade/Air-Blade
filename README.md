@@ -1,6 +1,6 @@
 <div align="center" style="margin-top: 25px">
   <p style="margin-top: 25px; text-align: center">Bem-vindo ao meu GITHUB...
-  <br>Eu sou o Nicholas tenho 20 anos e estou atualmente desenvolvendo um RPG.
+  <br>Eu sou o Nicholas tenho 20 anos e estou atualmente estou estudando elixir.
   <br>Sinta-se à vontade para viajar pelos meus repositórios...
 </p>  
 
