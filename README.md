@@ -1,6 +1,6 @@
 <div align="center" style="margin-top: 25px">
   <p style="margin-top: 25px; text-align: center">Bem-vindo ao meu GITHUB!
-  <br>Eu sou o Nicholas tenho 20 anos e estou atualmente estudando REACTJS & NEXTJS e a procura novos desafios.
+  <br>Eu sou o Nicholas tenho 21 anos e estou atualmente estudando REACTJS & NEXTJS e a procura novos desafios.
   <br>Gosto muito de ensinar o que aprendo, e me divirto estudando conteúdos Novos.
   <br>Sinta-se à vontade para navegar pelos meus repositórios...
 </p>
