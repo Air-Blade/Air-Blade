@@ -5,8 +5,6 @@
   <br>Sinta-se à vontade para navegar pelos meus repositórios...
 </p>
 
-<div>
-
 ## 🐱‍💻 Linguangens & Frameworks Que Me Aventuro:
 <div align="center" style="display: inline_block;">
   <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
@@ -19,5 +17,3 @@
   <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
   <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"/>  
 </div>
-
-⭐️ From [Nicholas-Goes](https://github.com/Nicholas-Goes).
