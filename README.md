@@ -17,3 +17,6 @@
   <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
   <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"/>  
 </div>
+  
+  ## Trofeus
+[![trophy](https://github-profile-trophy.vercel.app/?username=Nicholas-goes)](https://github.com/ryo-ma/github-profile-trophy)
