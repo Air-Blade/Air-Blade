@@ -1,7 +1,7 @@
 <h1 align="left"> ~ 𝙱𝚎𝚖-𝚟𝚒𝚗𝚍𝚘(𝚊) 𝚊𝚘 𝚖𝚎𝚞 𝚙𝚎𝚛𝚏𝚒𝚕</h4>
 
 ---
-<div style="display:flex; justify-content:center;">
+<div>
   <img src="https://64.media.tumblr.com/bf6a4d6eb1e17676dd37947a0bdc9772/960024ac300bbddd-fc/s500x750/4730b4669cc17723ce29950ec017e4e7efb1b67f.gifv">
 </div>
 <h3 align="left"> ~ 𝚂𝚘𝚋𝚛𝚎 𝚖𝚒𝚖</h3>
@@ -18,7 +18,7 @@
   <br>
   Tenho bastante facilidade em aprender conteúdos novos.</p>
 </div>
-<div style="display:flex; justify-content:center;">
+<div>
 <img style="padding-right: 2.5px;" src="https://img.shields.io/badge/HTML5-323330?style=for-the-badge&logo=html5&logoColor=white">
 <img style="padding-right: 2.5px;" src="https://img.shields.io/badge/CSS3-323330?style=for-the-badge&logo=css3&logoColor=white">
 <img style="padding-right: 2.5px;" src="https://img.shields.io/badge/Sass-323330?style=for-the-badge&logo=sass&logoColor=white">
@@ -28,7 +28,7 @@
 </div>
 <h3 align="left"> ~ 𝙴𝚗𝚝𝚛𝚎 𝚎𝚖 𝚌𝚘𝚗𝚝𝚊𝚝𝚘 𝚌𝚘𝚖𝚒𝚐𝚘</h4>
 <hr>
-<div style="display:flex; justify-content:center;">
+<div>
   <img style="padding-right: 2.5px;" src="https://img.shields.io/badge/Gmail-323330?style=for-the-badge&logo=gmail&logoColor=white">
   <img style="padding-right: 2.5px;" src="https://img.shields.io/badge/Discord-323330?style=for-the-badge&logo=discord&logoColor=white">
   <img src="https://img.shields.io/badge/LinkedIn-323330?style=for-the-badge&logo=linkedin&logoColor=white">
