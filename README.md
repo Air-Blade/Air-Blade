@@ -8,9 +8,6 @@
 
 <p align="justify">Opa, Tudo bem? Me chamo Nicholas tenho 21 anos e sou de Cachoeirinha-RS.<br> Sempre fui apaixonado pela técnologia e agora estou procurando oportunidades para trabalhar na àrea de desenvolvimento com foco para o front-end.</p>
 
-<img src="https://img.shields.io/badge/Windows-323330?style=for-the-badge&logo=windows&logoColor=white">
-<img src="https://img.shields.io/badge/Ubuntu-323330?style=for-the-badge&logo=ubuntu&logoColor=white">
-
 <h3 align="left">█▓▒­░⡷⠂𝙲𝚘𝚗𝚑𝚎𝚌𝚒𝚖𝚎𝚗𝚝𝚘𝚜⠐⢾░▒▓█</h3>
 
 ---
