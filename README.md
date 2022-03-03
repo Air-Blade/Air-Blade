@@ -1,26 +1,37 @@
-<p align="center">
-    <br>
-    <samp>
-        Opa, Tudo bom? Eu sou o <b><a href="https://iiwowks.github.io/">Nicholas</a></b>.
-        <br> Atualmente Estudando <b>React & Typescipt</b>
-        <br>
-    </samp>
-    <img align="middle"
-        src="https://github-readme-stats.vercel.app/api?username=Nicholas-Goes&show_icons=true&hide_title=true" />
-</p>
+<h1 align="middle"> ~ 𝙱𝚎𝚖-𝚟𝚒𝚗𝚍𝚘(𝚊) 𝚊𝚘 𝚖𝚎𝚞 𝚙𝚎𝚛𝚏𝚒𝚕</h4>
 
-<details align="center">
-    <summary> <b> <samp> Linguagens Mais Usadas </samp></b></summary>
-    <samp>
-        <img align="middle"
-            src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nicholas-Goes&hide_title=true&layout=compact" />
-    </samp>
-</details>
-
-<div align="center">
-    <b> <samp> Contato </samp></b>
-    <br>
-
-[![linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luiz-carlos-abbott-galvão-neto-21a93b148/)](https://www.linkedin.com/in/nicholasgoes/)&nbsp; &nbsp; [![gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nicholasfernandesdegoes@gmail.com)](mailto:s1029871348@gmail.com)
-
+---
+<div style="display:flex; justify-content:center;">
+  <img src="https://64.media.tumblr.com/bf6a4d6eb1e17676dd37947a0bdc9772/960024ac300bbddd-fc/s500x750/4730b4669cc17723ce29950ec017e4e7efb1b67f.gifv">
 </div>
+<h3 align="middle"> ~ 𝚂𝚘𝚋𝚛𝚎 𝚖𝚒𝚖</h3>
+
+---
+
+
+
+<h3 align="middle"> ~ 𝙲𝚘𝚗𝚑𝚎𝚌𝚒𝚖𝚎𝚗𝚝𝚘𝚜</h3>
+<hr>
+<div>
+  <p align="justify">Bom eu tenho boas noções de Javascript puro e estou me aventurando pelo React.<br>
+  Já construi alguns projetos Front-end consumindo Api's externas.
+  <br>
+  Tenho bastante facilidade em aprender conteúdos novos.</p>
+</div>
+<div style="display:flex; justify-content:center;">
+<img style="padding-right: 2.5px;" src="https://img.shields.io/badge/HTML5-323330?style=for-the-badge&logo=html5&logoColor=white">
+<img style="padding-right: 2.5px;" src="https://img.shields.io/badge/CSS3-323330?style=for-the-badge&logo=css3&logoColor=white">
+<img style="padding-right: 2.5px;" src="https://img.shields.io/badge/Sass-323330?style=for-the-badge&logo=sass&logoColor=white">
+<img style="padding-right: 2.5px;" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=white">
+<img style="padding-right: 2.5px;" src="https://img.shields.io/badge/React-323330?style=for-the-badge&logo=react&logoColor=white">
+<img src="https://img.shields.io/badge/TypeScript-323330?style=for-the-badge&logo=typescript&logoColor=white">
+</div>
+<h3 align="middle"> ~ 𝙴𝚗𝚝𝚛𝚎 𝚎𝚖 𝚌𝚘𝚗𝚝𝚊𝚝𝚘 𝚌𝚘𝚖𝚒𝚐𝚘</h4>
+<hr>
+<div style="display:flex; justify-content:center;">
+  <img style="padding-right: 2.5px;" src="https://img.shields.io/badge/Gmail-323330?style=for-the-badge&logo=gmail&logoColor=white">
+  <img style="padding-right: 2.5px;" src="https://img.shields.io/badge/Discord-323330?style=for-the-badge&logo=discord&logoColor=white">
+  <img src="https://img.shields.io/badge/LinkedIn-323330?style=for-the-badge&logo=linkedin&logoColor=white">
+</div>
+<h3 align="middle"> ~ Ｏｂｒｉｇａｄｏ　ｐｅｌａ　ｖｉｓｉｔａ.</h3>
+<hr><div></div>
