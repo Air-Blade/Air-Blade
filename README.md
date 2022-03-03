@@ -31,7 +31,6 @@
 <img src="https://img.shields.io/badge/styled--components-323330?style=for-the-badge&logo=styled-components&logoColor=white">
 </div>
 <h2 align="left">█▓▒­░⡷⠂𝙼𝚎𝚞𝚜 𝙲𝚘𝚗𝚝𝚊𝚝𝚘𝚜⠐⢾░▒▓█</h2>
-<hr>
 <div>
 <a href="mailto:nicholasfernandesdegoes@gmail.com" target="_blank"><img style="padding-right: 2.5px;" src="https://img.shields.io/badge/Gmail-323330?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="https://discord.gg/jFFxu8qR3a" target="_blank"><img style="padding-right: 2.5px;" src="https://img.shields.io/badge/Discord-323330?style=for-the-badge&logo=discord&logoColor=white"></a>
@@ -39,4 +38,3 @@
 <a href="https://wa.me/5551993753745" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-323330?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
 </div>
 <h2 align="left">█▓▒­░⡷⠂𝙵𝚒𝚚𝚞𝚎 𝚊 𝚟𝚘𝚗𝚝𝚊𝚍𝚎 𝚙𝚊𝚛𝚊 𝚗𝚊𝚟𝚎𝚐𝚊𝚛 𝚙𝚎𝚕𝚘𝚜 𝚛𝚎𝚙𝚘𝚜𝚒𝚝𝚘𝚛𝚒𝚘𝚜⠐⢾░▒▓█</h2>
-<hr><div></div>
