@@ -30,9 +30,9 @@
 <h3 align="left">█▓▒­░⡷⠂𝙼𝚎𝚞𝚜 𝙲𝚘𝚗𝚝𝚊𝚝𝚘𝚜⠐⢾░▒▓█</h4>
 <hr>
 <div>
-  <img style="padding-right: 2.5px;" src="https://img.shields.io/badge/Gmail-323330?style=for-the-badge&logo=gmail&logoColor=white">
-  <img style="padding-right: 2.5px;" src="https://img.shields.io/badge/Discord-323330?style=for-the-badge&logo=discord&logoColor=white">
-  <img src="https://img.shields.io/badge/LinkedIn-323330?style=for-the-badge&logo=linkedin&logoColor=white">
+<a href="mailto:nicholasfernandesdegoes@gmail.com" target="_blank"><img style="padding-right: 2.5px;" src="https://img.shields.io/badge/Gmail-323330?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://discord.gg/jFFxu8qR3a" target="_blank"><img style="padding-right: 2.5px;" src="https://img.shields.io/badge/Discord-323330?style=for-the-badge&logo=discord&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/nicholasgoes" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-323330?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
 <h3 align="left">█▓▒­░⡷⠂𝙾𝚋𝚛𝚒𝚐𝚊𝚍𝚘 𝚙𝚎𝚕𝚊 𝚟𝚒𝚜𝚒𝚝𝚊!⠐⢾░▒▓█</h3>
 <hr><div></div>
