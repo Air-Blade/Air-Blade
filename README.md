@@ -8,7 +8,7 @@
   <p align="justify">Bom eu tenho boas noções de Javascript puro e estou me aventurando pelo React.<br>
   Já construi alguns projetos front-end consumindo api's externas.
   <br>
-  Estou aprendendo a usar Stitches e Styled-Components<br>
+  Estou aprendendo a usar Stitches e Styled-Components.<br>
   Tenho bastante facilidade em aprender conteúdos novos.</p>
 </div>
 <details>
