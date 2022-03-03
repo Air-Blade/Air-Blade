@@ -2,8 +2,6 @@
 
 <img src="https://aniyuki.com/wp-content/uploads/2022/01/aniyuki-black-and-white-anime-32.gif">
 
----
-
 <h3 align="left">█▓▒­░⡷⠂𝚂𝚘𝚋𝚛𝚎 𝚖𝚒𝚖⠐⢾░▒▓█</h3>
 
 ---
