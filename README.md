@@ -23,6 +23,11 @@
   <summary>Linguagens Mais Usadas</summary>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nicholas-goes&layout=compact&theme=graywhite">
 </details>
+
+<details>
+  <summary>Status do Github</summary>
+  <img src="https://github-readme-stats.vercel.app/api?username=nicholas-goes&theme=graywhite&show_icons=true&count_private=true">
+</details>
 <br>
 <div>
 <img style="padding-right: 2.5px;" src="https://img.shields.io/badge/HTML5-323330?style=for-the-badge&logo=html5&logoColor=white">
