@@ -2,9 +2,6 @@
 
 ---
 
-<div>
-  <img src="https://uploads.spiritfanfiction.com/historias/capas/201802/-depois-que-voce-se-foi-12198073-240220181939.gif">
-</div>
 <h3 align="left">█▓▒­░⡷⠂𝚂𝚘𝚋𝚛𝚎 𝚖𝚒𝚖⠐⢾░▒▓█</h3>
 
 ---
@@ -25,6 +22,11 @@
   Estou aprendendo a usar Stitches e Styled-Components<br>
   Tenho bastante facilidade em aprender conteúdos novos.</p>
 </div>
+<details>
+  <summary>Linguagens Mais Usadas</summary>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nicholas-goes&layout=compact&theme=graywhite">
+</details>
+<br>
 <div>
 <img style="padding-right: 2.5px;" src="https://img.shields.io/badge/HTML5-323330?style=for-the-badge&logo=html5&logoColor=white">
 <img style="padding-right: 2.5px;" src="https://img.shields.io/badge/CSS3-323330?style=for-the-badge&logo=css3&logoColor=white">
@@ -42,5 +44,5 @@
 <a href="https://www.linkedin.com/in/nicholasgoes" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-323330?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://wa.me/5551993753745" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-323330?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
 </div>
-<h3 align="left">█▓▒­░⡷⠂𝙾𝚋𝚛𝚒𝚐𝚊𝚍𝚘 𝚙𝚎𝚕𝚊 𝚟𝚒𝚜𝚒𝚝𝚊!⠐⢾░▒▓█</h3>
+<h3 align="left">█▓▒­░⡷⠂𝙵𝚒𝚚𝚞𝚎 𝚊 𝚟𝚘𝚗𝚝𝚊𝚍𝚎 𝚙𝚊𝚛𝚊 𝚗𝚊𝚟𝚎𝚐𝚊𝚛 𝚙𝚎𝚕𝚘𝚜 𝚛𝚎𝚙𝚘𝚜𝚒𝚝𝚘𝚛𝚒𝚘𝚜⠐⢾░▒▓█</h3>
 <hr><div></div>
