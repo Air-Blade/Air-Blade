@@ -3,13 +3,16 @@
 ---
 
 <div>
-  <img src="https://64.media.tumblr.com/bf6a4d6eb1e17676dd37947a0bdc9772/960024ac300bbddd-fc/s500x750/4730b4669cc17723ce29950ec017e4e7efb1b67f.gifv">
+  <img src="https://uploads.spiritfanfiction.com/historias/capas/201802/-depois-que-voce-se-foi-12198073-240220181939.gif">
 </div>
 <h3 align="left">█▓▒­░⡷⠂𝚂𝚘𝚋𝚛𝚎 𝚖𝚒𝚖⠐⢾░▒▓█</h3>
 
 ---
 
 <p align="justify">Opa, Tudo bem? Me chamo Nicholas tenho 21 anos e sou de Cachoeirinha-RS.<br> Sempre fui apaixonado pela técnologia e agora estou procurando oportunidades para trabalhar na àrea de desenvolvimento com foco para o front-end.</p>
+
+<img src="https://img.shields.io/badge/Windows-323330?style=for-the-badge&logo=windows&logoColor=white">
+<img src="https://img.shields.io/badge/Ubuntu-323330?style=for-the-badge&logo=ubuntu&logoColor=white">
 
 <h3 align="left">█▓▒­░⡷⠂𝙲𝚘𝚗𝚑𝚎𝚌𝚒𝚖𝚎𝚗𝚝𝚘𝚜⠐⢾░▒▓█</h3>
 
