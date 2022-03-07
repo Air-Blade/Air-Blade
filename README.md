@@ -1,6 +1,5 @@
 <h1 align="left">█▓▒­░⡷⠂𝙱𝚎𝚖-𝚟𝚒𝚗𝚍𝚘(𝚊) 𝚊𝚘 𝚖𝚎𝚞 𝚙𝚎𝚛𝚏𝚒𝚕⠐⢾░▒▓█</h1>
 <br>
-<img src="https://aniyuki.com/wp-content/uploads/2022/01/aniyuki-black-and-white-anime-32.gif">
 <h2 align="left">█▓▒­░⡷⠂𝚂𝚘𝚋𝚛𝚎 𝚖𝚒𝚖⠐⢾░▒▓█</h2>
 <p align="justify">Opa, Tudo bem? Me chamo Nicholas tenho 21 anos e sou de Cachoeirinha-RS.<br> Sempre fui apaixonado pela técnologia e agora estou procurando oportunidades para trabalhar na àrea de desenvolvimento com foco para o front-end.</p>
 <h2 align="left">█▓▒­░⡷⠂𝙲𝚘𝚗𝚑𝚎𝚌𝚒𝚖𝚎𝚗𝚝𝚘𝚜⠐⢾░▒▓█</h2>
