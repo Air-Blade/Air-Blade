@@ -1,6 +1,5 @@
 <h1 align="center">█▓▒­░⡷⠂𝙱𝚎𝚖-𝚟𝚒𝚗𝚍𝚘(𝚊) 𝚊𝚘 𝚖𝚎𝚞 𝚙𝚎𝚛𝚏𝚒𝚕⠐⢾░▒▓█</h1>
 <div align="center">
-<img src="https://i0.wp.com/otakubfx.com.br/wp-content/uploads/2016/07/como-criar-gif-de-animes-3.gif" alt="Gif"></img>
 </div>
 <br>
 <h2 align="center">█▓▒­░⡷⠂𝚂𝚘𝚋𝚛𝚎 𝚖𝚒𝚖⠐⢾░▒▓█</h2>
