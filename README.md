@@ -4,7 +4,7 @@
 </div>
 <br>
 <h2 align="center">█▓▒­░⡷⠂𝚂𝚘𝚋𝚛𝚎 𝚖𝚒𝚖⠐⢾░▒▓█</h2>
-<p align="center">Opa, Tudo bem? Me chamo Nicholas tenho 21 anos e sou de Cachoeirinha-RS.<br> Sempre fui apaixonado pela técnologia e agora estou procurando oportunidades para trabalhar na àrea de desenvolvimento front-end.<br> Dei Monitoria na Disciplina de desenvolvimento Front-end no curso técnico.</p>
+<p align="center">Opa, Tudo bem? Me chamo Nicholas tenho 21 anos e sou de Cachoeirinha-RS.<br> Sempre fui apaixonado pela técnologia e agora estou procurando oportunidades para trabalhar na àrea de desenvolvimento front-end.<br> Dei Monitoria na Disciplina de desenvolvimento no curso técnico.</p>
 <h2 align="center">█▓▒­░⡷⠂𝙲𝚘𝚗𝚑𝚎𝚌𝚒𝚖𝚎𝚗𝚝𝚘𝚜⠐⢾░▒▓█</h2>
 <div>
   <p align="center">Bom eu tenho boas noções de Javascript puro e estou me aventurando pelo React.<br>
