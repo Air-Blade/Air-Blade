@@ -11,6 +11,7 @@ I love to much code in react typescript, I've studied responsivity and api usage
 ## Contact me
 
 Linkedin: www.linkedin.com/in/nicholasgoes
+
 instagram: www.instagram.com/goes_nicholas
 
 ## Thanks for coming here
