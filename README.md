@@ -1,7 +1,5 @@
 # Welcome to My Profile
 
-![Imagem](https://media4.giphy.com/media/YS7BctOtlyed2/giphy.gif?cid=ecf05e47teyki45lm7bnv7s4fm8f6pcoqrbb8nr4p55uag4s&rid=giphy.gif&ct=g)
-
 ## About me
 
 Hey! I'm Nicholas, a brazilian front-end developer with a some months of experience on personal projects.
