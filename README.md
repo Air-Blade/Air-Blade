@@ -16,6 +16,7 @@ I've studied responsively and api usage in some personal project be free to look
 ## Contact me
 
 Linkedin: www.linkedin.com/in/nicholasgoes
+
 instagram: www.instagram.com/goes_nicholas
 
-## Thanks for coming here
+## Thank you for coming here
