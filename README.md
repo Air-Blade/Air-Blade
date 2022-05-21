@@ -15,4 +15,4 @@ I've studied responsively and api usage in some personal projects. Feel free to 
 
 [![Linkedin](https://skillicons.dev/icons?i=linkedin,twitter,instagram)](https://linktr.ee/nicholas_goes)
 
-## 👋 Thank you for coming here
+## 👋 Thank you for coming here !
