@@ -9,7 +9,7 @@ Hey! I'm Nicholas, a brazilian front-end developer with a some months of experie
 I love to much react typescript.
 I've studied responsively and api usage in some personal projects. Feel free to look around my repositories.
 
-[![My Skills](https://skillicons.dev/icons?i=react,vscode,md,nextjs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,vscode,md,nextjs,tailwind)](https://skillicons.dev)
 
 ## 📞 Contact me
 
