@@ -11,6 +11,6 @@ I've studied responsively and api usage in some personal projects. Feel free to 
 
 [![My Skills](https://skillicons.dev/icons?i=javascript,react,vscode,md,nextjs,tailwind)](https://skillicons.dev)
 
-## 📞 Contact me
+## 📞 Contact
 
 [![Linkedin](https://skillicons.dev/icons?i=linkedin,twitter,instagram)](https://linktr.ee/nicholas_goes)
