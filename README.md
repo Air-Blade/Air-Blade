@@ -2,7 +2,7 @@
 
 ## About me
 
-Hey! I'm Nicholas, a brazilian front-end developer with a some months of experience on personal projects.
+Hey! I'm Nicholas, a Brazilian front-end developer with a some months of experience on personal projects.
 
 ## Knowledge
 
