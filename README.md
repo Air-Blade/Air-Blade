@@ -1,16 +1,28 @@
-# Welcome to My Profile
+<h1 align="center" > Welcome to My Profile </h1>
 
-## About me
+<h2 align="center" > About me </h2>
 
-Hey! I'm Nicholas, a Brazilian front-end developer with a some months of experience on personal projects.
+<p align="center" >
+  Hey! I'm Nicholas, a Brazilian front-end developer with a some months of experience on personal projects.
+</p>
 
-## Knowledge
+<h2 align="center" > Knowledge </h2>
 
-I love to much react typescript.
-I've studied responsively and api usage in some personal projects. Feel free to look around my repositories.
+<p align="center" >
+  I love to much react typescript.
+  I've studied responsively and api usage in some personal projects. Feel free to look around my repositories.
+</p>
 
-[![My Skills](https://skillicons.dev/icons?i=react,vscode,md,nextjs,tailwind)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode,react,tailwind,next,vite,firebase,markdown&themes=dark" />
+  </a>
+</p>
 
-## Contact
+<h2 align="center" > Contact </h2>
 
-[![Linkedin](https://skillicons.dev/icons?i=linkedin,twitter,instagram)](https://linktr.ee/nicholas_goes)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linkedin,twitter,discord,instagram" />
+  </a>
+</p>
