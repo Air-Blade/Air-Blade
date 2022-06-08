@@ -1,9 +1,5 @@
 <h1 align="center" > Welcome to My Profile </h1>
 
-<div align="center">
-  Hello World!!!
-</div>
-
 <h2 align="center" > About me </h2>
 
 <p align="center" >
