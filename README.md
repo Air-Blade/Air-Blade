@@ -1,7 +1,7 @@
 <h1 align="center" > Welcome to My Profile </h1>
 
 <div align="center">
-  <img src="https://i.imgur.com/jx17oHT.gif">
+  Hello World!!!
 </div>
 
 <h2 align="center" > About me </h2>
