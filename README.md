@@ -9,7 +9,7 @@
 <h2 align="center" > Knowledge 🍂 </h2>
 
 <p align="center" >
-  I love to much react typescript.
+  I love to much react typescript..
   I've studied responsively and api usage in some personal projects. Feel free to look around my repositories.
 </p>
 
