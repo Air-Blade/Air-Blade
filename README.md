@@ -3,7 +3,7 @@
 <h2 align="center" > About me 🍂 </h2>
 
 <p align="center" >
-  Hey! I'm Nicholas, a Brazilian front-end developer with a some months of experience on personal projects.
+  Hey! I'm Nicholas, a Brazilian front-end developer with a some months of experience on personal projects..
 </p>
 
 <h2 align="center" > Knowledge 🍂 </h2>
