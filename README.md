@@ -15,7 +15,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,react,tailwind,next,vite,firebase,markdown&themes=dark" />
+    <img src="https://skillicons.dev/icons?i=vscode,react,tailwind,bootstrap,next,vite,firebase,markdown&themes=dark" />
   </a>
 </p>
 
