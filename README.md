@@ -1,8 +1,7 @@
 <h1 align="center" > Welcome to My Profile 🍂 </h1>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nicholas-Goes" width="390"></img>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nicholas-Goes&layout=compact" width="384"></img>  
+  <img src="https://github-readme-stats.vercel.app/api?username=Nicholas-Goes&theme=github_dark&hide_border=true&show_icons=true&count_private=true"></img>
 </div>
 
 <h2 align="center" > About me 🍂 </h2>
