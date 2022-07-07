@@ -5,6 +5,8 @@
 Hey! I'm Nicholas, a Brazilian front-end developer with a some months of experience on personal projects..<br>
 Be Free to look around my projects
 
+![Profile views](https://gpvc.arturio.dev/Nicholas-Goes)
+
 # Knowledge
 
 I use to much react typescript, and currently studding NextJs, Caching and responsivity.<br>
