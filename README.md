@@ -18,7 +18,7 @@ I use to much react typescript, and currently studding NextJs, Caching and respo
 # Contact Me
 
 <p>
-  <a href="https://skillicons.dev">
+  <a href="https://linktr.ee/nicholas_goes">
    <img src="https://skillicons.dev/icons?i=linkedin,twitter,discord,instagram" />
  </a>  
 </p>
